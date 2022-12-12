@@ -183,7 +183,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Disabled Silent Aim",
                             Icon = "",
                             Duration = 1
@@ -196,7 +196,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Enabled Silent Aim",
                             Icon = "",
                             Duration = 1
@@ -218,7 +218,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Disabled UnderGround Resolver",
                             Icon = "",
                             Duration = 1
@@ -231,7 +231,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Enabled UnderGround Resolver",
                             Icon = "",
                             Duration = 1
@@ -252,7 +252,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Disabled Desync Resolver",
                             Icon = "",
                             Duration = 1
@@ -265,7 +265,7 @@ Mouse.KeyDown:Connect(function(Key)
                     game.StarterGui:SetCore(
                         "SendNotification",
                         {
-                            Title = "Memelouse3150",
+                            Title = "Private Goons",
                             Text = "Enabled Desync Resolver",
                             Icon = "",
                             Duration = 1
